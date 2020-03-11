@@ -7,3 +7,6 @@ font-family: 'Montserrat', sans-serif;
 body{
 text-align: center;
 }
+#first{
+  background-color: rgb(0,0,0);
+}
