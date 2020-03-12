@@ -11,3 +11,27 @@ background-color: rgb(0,0,0);
 #first{
   background-color: rgb(0,0,0);
 }
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: black;
+  text-align: left;
+  font-size: 16px;
+  color: white;
+  height: 45px
+}
+
+.h1 {
+	color: white;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	padding: 9px 0px;
+}
